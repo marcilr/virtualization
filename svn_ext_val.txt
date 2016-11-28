@@ -1,0 +1,76 @@
+#
+# svn_ext_val.txt
+# Created Wed Sep 26 11:51:26 AKDT 2012
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under virtualization/
+#
+# docs/         Documentation
+#
+# hyper-v/      Microsoft Hyper-V, codenamed Viridian and formerly known as
+#               Windows Server Virtualization, is a hypervisor-based
+#               virtualization system for x86-64 systems.
+#               http://en.wikipedia.org/wiki/Hyper-V
+#
+#               The issue with hyper-v is that it requires a separate windows
+#               2008 or 2012 box to run vmm (Virtual Machine Manager) for p2v
+#               of machines.  There is no nice "converter" app like VMware for
+#               creation of machines.
+#
+# kvm/          Linux Kernel Based Virtual Machine
+#               http://www.linux-kvm.org/page/Main_Page
+#
+# libvert/      libvirt is an open source API, daemon and management tool for
+#               managing platform virtualization.[1] It can be used to manage
+#               KVM, Xen, VMware ESX, QEMU and other virtualization
+#               technologies.  These APIs are widely used in the orchestration
+#               layer of hypervisors in the development of a cloud-based
+#               solution.  
+#               The most popular command line interface is 'virsh', and higher
+#                level tools like oVirt.[8]
+#               [1] libvirt home page description
+#                   http://libvirt.org/
+#               [8] oVirt Virtualization Management Platform
+#                   http://press.redhat.com/2008/06/18/more-on-red-hat%E2%80%99s-virtualization-news/
+#               https://en.wikipedia.org/wiki/Libvirt
+#
+# qemu/         Open source processor emulator
+#               http://wiki.qemu.org/Main_Page
+#
+# vagrant/      "Vagrant is a tool to create and configure virtual development
+#               environments.  As a wrapper around common virtual machine
+#               solutions it helps bringing up and disposing a virtual machine
+#               in a glimpse."
+#               http://liquidat.wordpress.com/2014/03/03/howto-vagrant-libvirt-multi-multi-machine-ansible-and-puppet/
+#
+# virtualbox/   VirtualBox is a powerful x86 and AMD64/Intel64 virtualization
+#               product for enterprise as well as home use.  Not only is
+#               VirtualBox an extremely feature rich, high performance product
+#               for enterprise customers, it is also the only professional
+#               solution that is freely available as Open Source Software under
+#               the terms of the GNU General Public License (GPL) version 2. 
+#               https://www.virtualbox.org/
+#
+# vmware/       VMware virtualization
+#
+# wine/         Wine is a free and open source software application that aims
+#               to allow applications designed for Microsoft Windows to run on
+#               Unix-like operating  systems.
+#               http://en.wikipedia.org/wiki/Wine_%28software%29
+#
+# xen/          Open source hypervisor
+#               https://en.wikipedia.org/wiki/Xen 
+#
+../../virtualization/docs/docs               ./docs
+../../virtualization/hyper-v/hyper-v         ./hyper-v 
+../../virtualization/kvm/kvm                 ./kvm
+../../virtualization/libvert/libvert         ./libvert
+../../virtualization/qemu/qemu               ./qemu
+../../virtualization/vagrant/vagrant         ./vagrant
+../../virtualization/virtualbox/virtualbox   ./virtualbox
+../../virtualization/vmware/vmware           ./vmware
+../../virtualization/wine/wine               ./wine
+../../virtualization/xen/xen                 ./xen
