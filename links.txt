@@ -1,0 +1,23 @@
+links.txt
+Created Fri Sep 28 14:04:34 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Virtualization related links
+
+
+Links
+=====
+Proxmox Virtual Environment is an easy to use
+Open Source virtualization platform for running
+Virtual Appliances and Virtual Machines
+It is based on the leading Kernel-based Virtual Machine (KVM) hypervisor and OpenVZ,
+the number one solution for container based virtualization.
+http://www.proxmox.com/
+
+Virtualisation on a laptop
+http://box.matto.nl/virtualmachinesonlaptop.html
+
+Virtualization
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Virtualization
