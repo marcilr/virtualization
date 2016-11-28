@@ -1,0 +1,21 @@
+virtualization.txt
+Created Fri Sep 28 14:02:49 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Virtualization - In computing, virtualization (or virtualisation) is the creation of a virtual
+(rather than actual) version of something, such as a hardware platform, operating system (OS),
+storage device, or network resources.[1]
+
+wikipedia.org/
+
+
+Links
+=====
+[1] Turban, E; King, D; Lee, J; Viehland, D (2008).
+"Chapter 19: Building E-Commerce Applications and Infrastructure".
+Electronic Commerce A Managerial Perspective. pp. 27.
+
+Virtualization
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Virtualization
