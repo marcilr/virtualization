@@ -1,0 +1,22 @@
+README
+Created Mon Nov 28 09:10:48 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+glossary.txt
+  Glossary for virtualization
+
+links.txt
+  Virtualization related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under virtualization/
+
+virtualization.txt
+  Virtualization - In computing, virtualization (or virtualisation)
+  is the creation of a virtual (rather than actual) version of
+  something, such as a hardware platform, operating system (OS),
+  storage device, or network resources.[1]
+  http://en.wikipedia.org/wiki/Virtualization
