@@ -29,3 +29,4 @@
 #
 # =====================================================================
 ssh://htpc/data/git/virtualization/virtualbox   virtualbox
+ssh://htpc/data/git/virtualization/xen          xen      
