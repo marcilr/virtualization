@@ -20,3 +20,10 @@ virtualization.txt
   something, such as a hardware platform, operating system (OS),
   storage device, or network resources.[1]
   http://en.wikipedia.org/wiki/Virtualization
+
+wine/
+  Wine is a free and open source software application that aims
+  to allow applications designed for Microsoft Windows to run on
+  Unix-like operating  systems.
+  http://en.wikipedia.org/wiki/Wine_%28software%29
+
