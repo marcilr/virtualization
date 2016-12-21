@@ -8,6 +8,10 @@ Virtualization related links
 
 Links
 =====
+Getting Started with VMwares ESXI
+June 13, 2016
+https://blog.monstermuffin.org/getting-started-with-vmwares-esxi/
+
 Proxmox Virtual Environment is an easy to use
 Open Source virtualization platform for running
 Virtual Appliances and Virtual Machines
