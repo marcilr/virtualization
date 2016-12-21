@@ -10,6 +10,7 @@ Links
 =====
 Getting Started with VMwares ESXI
 June 13, 2016
+Wow, this is a nice ESXI article.
 https://blog.monstermuffin.org/getting-started-with-vmwares-esxi/
 
 Proxmox Virtual Environment is an easy to use
