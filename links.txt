@@ -13,6 +13,11 @@ June 13, 2016
 Wow, this is a nice ESXI article.
 https://blog.monstermuffin.org/getting-started-with-vmwares-esxi/
 
+KVM
+Kernel-based Virtual Machine
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine
+
 Proxmox Virtual Environment is an easy to use
 Open Source virtualization platform for running
 Virtual Appliances and Virtual Machines
