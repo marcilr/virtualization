@@ -28,7 +28,7 @@
 # Virtualization
 #
 # =====================================================================
-ssh://htpc/data/git/virtualization/virtualbox   virtualbox
-ssh://git@github.com/marcilr/vmware             vmware
-ssh://htpc/data/git/virtualization/wine         wine
-ssh://htpc/data/git/virtualization/xen          xen      
+ssh://git@github.com/marcilr/virtualbox   virtualbox
+ssh://git@github.com/marcilr/vmware       vmware
+ssh://htpc/data/git/virtualization/wine   wine
+ssh://htpc/data/git/virtualization/xen    xen      
