@@ -6,23 +6,27 @@ Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
 Glossary for virtualization
 
 
-P2V - Physical-to-Virtual ("P2V") describes the process of decoupling and migrating a physical
-  server's operating system (OS), applications, and data from a physical server to a virtual
-  machine guest hosted on a virtualized platform.
+P2V - Physical-to-Virtual ("P2V") describes the process of decoupling
+  and migrating a physical server's operating system (OS), applications,
+  and data from a physical server to a virtual machine guest hosted on
+  a virtualized platform.
   http://en.wikipedia.org/wiki/Physical-to-Virtual
 
-Virtualization - In computing, virtualization (or virtualisation) is the creation of a virtual
-  (rather than actual) version of something, such as a hardware platform, operating system (OS),
-  storage device, or network resources.[1]
+Virtualization - In computing, virtualization (or virtualisation) is the
+  creation of a virtual (rather than actual) version of something, such
+  as a hardware platform, operating system (OS), storage device, or
+  network resources.[1]
   http://en.wikipedia.org/wiki/Virtualization
 
-VM - A virtual machine (VM) is a "completely isolated guest operating system installation within a
-normal host operating system".[1]  Modern virtual machines are implemented with either software
-emulation or hardware virtualization.  In most cases, both are implemented together.
+VM - A virtual machine (VM) is a "completely isolated guest operating
+  system installation within a normal host operating system".[1]
+  Modern virtual machines are implemented with either software
+  emulation or hardware virtualization.  In most cases, both are
+  implemented together.
   http://en.wikipedia.org/wiki/Virtual_machine
 
-VPS - A virtual private server (VPS) is a virtual machine sold as a service by
-  an Internet hosting service.
+VPS - A virtual private server (VPS) is a virtual machine sold as a
+  service by an Internet hosting service.
 
   A VPS runs its own copy of an operating system, and customers have
   superuser-level access to that operating system instance, so they can
