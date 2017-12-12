@@ -31,4 +31,4 @@
 ssh://git@github.com/marcilr/virtualbox   virtualbox
 ssh://git@github.com/marcilr/vmware       vmware
 ssh://git@github.com/marcilr/wine         wine
-ssh://htpc/data/git/virtualization/xen    xen      
+ssh://git@github.com/marcilr/xen          xen
