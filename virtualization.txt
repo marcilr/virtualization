@@ -3,8 +3,9 @@ Created Fri Sep 28 14:02:49 AKDT 2012
 Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Virtualization - In computing, virtualization (or virtualisation) is the creation of a virtual
-(rather than actual) version of something, such as a hardware platform, operating system (OS),
+Virtualization - In computing, virtualization (or virtualisation)
+is the creation of a virtual (rather than actual) version of
+something, such as a hardware platform, operating system (OS),
 storage device, or network resources.[1]
 
 wikipedia.org/
