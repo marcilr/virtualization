@@ -11,6 +11,25 @@ storage device, or network resources.[1]
 wikipedia.org/
 
 
+Remove origin
+=============
+covellite:~/git/virtualization$ git remote -v
+origin  ssh://htpc/data/git/virtualization/virtualization (fetch)
+origin  ssh://htpc/data/git/virtualization/virtualization (push)
+covellite:~/git/virtualization$ git remote rm origin
+covellite:~/git/virtualization$ git remote -v
+covellite:~/git/virtualization$ 
+
+
+Push to remote
+==============
+Push an existing repository from the command line
+
+$ git remote add origin git@github.com:marcilr/virtualization.git
+$ git push -u origin master
+
+
+
 Links
 =====
 [1] Turban, E; King, D; Lee, J; Viehland, D (2008).
