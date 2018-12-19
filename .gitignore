@@ -1,0 +1,12 @@
+#.gitignore
+# Created Wed Dec 19 07:48:28 AST 2018
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+docker/
+virtualbox/
+vmware/
+wine/
+xen/
