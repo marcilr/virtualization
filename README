@@ -19,8 +19,9 @@ glossary.txt
 links.txt
   Virtualization related links
 
-svn_ext_val.txt
-  List of repo hierarchical directories to checkout under virtualization/
+spice/
+  SPICE (the Simple Protocol for Independent Computing Environments) 
+  https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments
 
 virtualization.txt
   Virtualization - In computing, virtualization (or virtualisation)
