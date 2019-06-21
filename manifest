@@ -29,6 +29,7 @@
 # =====================================================================
 ssh://git@github.com/marcilr/docker        docker
 ssh://git@github.com/marcilr/hypervisors   hypervisors
+ssh://git@github.com/marcilr/linode        linode
 ssh://git@github.com/marcilr/spice         spice
 ssh://git@github.com/marcilr/virtualbox    virtualbox
 ssh://git@github.com/marcilr/vmware        vmware
