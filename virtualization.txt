@@ -11,6 +11,16 @@ storage device, or network resources.[1]
 wikipedia.org/
 
 
+Fri Jun 21 08:09:36 AKDT 2019
+=============================
+Currently using Linode for virtualization:
+  https://www.linode.com/docs/
+
+Consider also using DigitalOcean:
+  https://www.digitalocean.com/products/droplets/?_campaign=DO_Dev_Awareness_G_Search_B_GENERIC&_adgroup=GENERIC_DO&_keyword=digitalocean&_device=c&_copytype=biz_ad&_adposition=1t2&_medium=brand_sem&_source=google&_dkitrig=&_2dkitrig=&gclid=Cj0KCQjwgLLoBRDyARIsACRAZe6BehXfooU_C51K9DawroL8dzVDxdLcx7zJNabNv0fBj7wjHc79uG8aAkHNEALw_wcB
+
+
+
 Remove origin
 =============
 covellite:~/git/virtualization$ git remote -v
