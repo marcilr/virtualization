@@ -13,7 +13,7 @@ wikipedia.org/
 
 Fri Jun 21 08:09:36 AKDT 2019
 =============================
-Currently using Linode for virtualization:
+Currently using Linode, at $5 per month, for virtualization:
   https://www.linode.com/docs/
 
 Consider also using DigitalOcean:
