@@ -18,6 +18,9 @@ Kernel-based Virtual Machine
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine
 
+Microsoft Azure Virtualization
+https://azure.microsoft.com/en-us/
+
 Proxmox Virtual Environment is an easy to use
 Open Source virtualization platform for running
 Virtual Appliances and Virtual Machines
@@ -25,9 +28,53 @@ It is based on the leading Kernel-based Virtual Machine (KVM) hypervisor and Ope
 the number one solution for container based virtualization.
 http://www.proxmox.com/
 
+Top 10 Most Popular Virtualization Software
+Last Updated:July 2, 2019
+o VMware Fusion - for Mac users 
+o Parallels Desktop - for Mac users
+o Oracle Virtualization
+  Oracle VM VirtualBox <=== Using now (Aug. 2, 2019)
+o VMware Workstation
+o QEMU                 <=== Looks free and good
+  QEMU is a generic and open source machine
+  emulator and virtualizer.
+  QEMU has released its latest version 3.0.0 on
+  14th August 18.  QEMU is the short form of Quick Emulator.
+  This system is written in C language. It is an open source
+  system.
+  Both windows 32-bit and 64-bit binaries:
+    https://www.qemu.org/download/#windows
+  Reviews:
+    "Being an open source software, it doesn't have fancy UI
+    and most of the work / parameters are passed as a command
+    line.  It could be very confusing for the first time users,
+    specially ones without having prior command line experience.
+    I have struggled myself quite a bit when I was introduced to
+    Qemu."
+    --Dhruv V, Sr Embedded Engineer
+      Dec 01, 2015
+    https://www.g2.com/products/qemu/reviews#survey-response-73262
+  https://www.qemu.org/
+o Microsoft Hyper-V
+  Included with Windows Server 2008
+  How to access?
+o Redhat Virtualization
+  Written in java
+  Released in June 2010
+o Veertu-for MAC
+o Apple-Boot Camp
+  Boot Camp software was developed by Apple.
+  It is for the Mac users, who want to use
+  Windows OS on Mac. The first version was
+  released in April 2006.
+https://www.softwaretestinghelp.com/virtualization-software/
+
 Virtualisation on a laptop
 http://box.matto.nl/virtualmachinesonlaptop.html
 
 Virtualization
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Virtualization
+
+Virtuozzo
+https://www.virtuozzo.com/
