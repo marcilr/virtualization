@@ -6,6 +6,9 @@
 #
 .gitignore
 docker/
+hypervisors/
+linode/
+spice/
 virtualbox/
 vmware/
 wine/
