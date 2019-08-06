@@ -16,6 +16,9 @@ docker/
 glossary.txt
   Glossary for virtualization
 
+hyper-v/
+  Windows 10 virtualization with hyper-v
+
 links.txt
   Virtualization related links
 
